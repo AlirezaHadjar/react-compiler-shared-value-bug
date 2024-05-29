@@ -1,0 +1,12 @@
+{
+  "name": "react-compiler-runtime",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "babel-plugin-react-compiler": "*"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
